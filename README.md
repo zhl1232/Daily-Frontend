@@ -4,20 +4,9 @@
 #### 第二天 [对象属性(ObjectProperty)](https://github.com/zhl1232/Daily-Frontend/issues/2)
 
 ```js
-function fn(person) {
-  person.age = 23
-  person = {
-    name: 'zzz',
-    age: 28
-  }
-  return person
-}
-const p1 = {
-  name: 'xxx',
-  age: 25
-}
-const p2 = fn(p1)
-console.log(p1) // -> ?
-console.log(p2) // -> ?
+对象的数据描述符和存取描述符
+什么是for in 遍历的可枚举属性
+Object.defineProperty
+Object.freeze
 ```
 
