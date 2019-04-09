@@ -5,5 +5,5 @@
 #### 第三天 [前端跨域](https://github.com/zhl1232/Daily-Frontend/issues/3)
 #### 第四天 [防抖节流](https://github.com/zhl1232/Daily-Frontend/issues/4)
 #### 第五天 [深浅拷贝](https://github.com/zhl1232/Daily-Frontend/issues/5)
+#### 第六天 [数据类型](https://github.com/zhl1232/Daily-Frontend/issues/6)
 
-<img src="https://raw.githubusercontent.com/zhl1232/Daily-Frontend/master/images/image.png" width = "50%" />
