@@ -6,4 +6,4 @@
 #### 第四天 [防抖节流](https://github.com/zhl1232/Daily-Frontend/issues/4)
 #### 第五天 [深浅拷贝](https://github.com/zhl1232/Daily-Frontend/issues/5)
 #### 第六天 [数据类型](https://github.com/zhl1232/Daily-Frontend/issues/6)
-
+#### 第六天 [类型判断](https://github.com/zhl1232/Daily-Frontend/issues/7)
