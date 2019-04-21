@@ -9,3 +9,4 @@
 #### 第七天 [类型判断](https://github.com/zhl1232/Daily-Frontend/issues/7)
 #### 第八天 [装箱转换和拆箱转换](https://github.com/zhl1232/Daily-Frontend/issues/8)
 #### 第九天 [如何触发组件更新,数据响应式](https://github.com/zhl1232/Daily-Frontend/issues/9)
+#### 第10天 [vue-router](https://github.com/zhl1232/Daily-Frontend/issues/10)
