@@ -11,3 +11,4 @@
 #### 第九天 [如何触发组件更新,数据响应式](https://github.com/zhl1232/Daily-Frontend/issues/9)
 #### 第10天 [vue-router](https://github.com/zhl1232/Daily-Frontend/issues/10)
 #### 第11天 [数组去重](https://github.com/zhl1232/Daily-Frontend/issues/11)
+#### 第12天 [一些js技巧](https://github.com/zhl1232/Daily-Frontend/issues/12)
