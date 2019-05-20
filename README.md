@@ -12,3 +12,4 @@
 #### 第10天 [vue-router](https://github.com/zhl1232/Daily-Frontend/issues/10)
 #### 第11天 [数组去重](https://github.com/zhl1232/Daily-Frontend/issues/11)
 #### 第12天 [一些js技巧](https://github.com/zhl1232/Daily-Frontend/issues/12)
+#### 第13天 [js模块化](https://github.com/zhl1232/Daily-Frontend/issues/13)
